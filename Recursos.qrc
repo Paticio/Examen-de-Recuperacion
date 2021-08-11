@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Recursos/peso.csv</file>
+        <file>Recursos/registro.csv</file>
+    </qresource>
+</RCC>
